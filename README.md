@@ -4,17 +4,17 @@
 Assignment 1:
 
 Bisector Method 
-Golden Search 
+\nGolden Search 
 
 Assignment 2:
 
 Newton Root 
-Newton Minimization 
+\nNewton Minimization 
 
 Assignment 3:
 
 Finite Difference method 
-Newton Secant method 
+\nNewton Secant method 
 
 Assignment 4:
 
@@ -23,8 +23,8 @@ Nelder-Mead Algorithm  
 Assignment 5:
 
 Alternate Variables method 
-Steepest Descent 
-Conjugate Gradient  
-Secant Conjugate Gradient Method 
+\nSteepest Descent 
+\nConjugate Gradient  
+S\necant Conjugate Gradient Method 
 
 
