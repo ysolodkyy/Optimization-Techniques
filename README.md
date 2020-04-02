@@ -22,9 +22,9 @@ Nelder-Mead Algorithm  
 
 Assignment 5:
 
-Alternate Variables method
-Steepest Descent
-Conjugate Gradient 
-Secant Conjugate Gradient Method
+Alternate Variables method 
+Steepest Descent 
+Conjugate Gradient  
+Secant Conjugate Gradient Method 
 
 
