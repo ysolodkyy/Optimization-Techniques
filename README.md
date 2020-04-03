@@ -32,3 +32,13 @@ Steepest Descent
 Conjugate Gradient  
 
 Secant Conjugate Gradient Method 
+
+## Final:
+
+Newton_NO_LineSearch.c
+
+Newton_with_LineSearch.c
+
+SteepestDescent_NO_LineSearch.c
+
+SteepestDescent_with_LineSearch.c
