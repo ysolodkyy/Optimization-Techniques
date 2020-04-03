@@ -1,3 +1,15 @@
+
+/*
+ ============================================================================
+ Name        : problem1.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Nelder-Mead Algorithm
+ ============================================================================
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
