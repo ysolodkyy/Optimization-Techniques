@@ -4,7 +4,7 @@
  Author      : Yevgen Solodkyy
  Version     :	TUESDAY 6:20p
  Copyright   : STEEPESET DESCENT
- Description : Hello World in C, Ansi-style
+ Description : Final_SteepestDescent_NO_LS.c
  ============================================================================
  */
 
