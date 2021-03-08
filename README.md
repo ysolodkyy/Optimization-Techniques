@@ -1,4 +1,4 @@
-# Optimization-Techniques Class Assignments
+# Optimization-Techniques Class Assignments (Winter 2018)
 
 
 ## Assignment 1:
